@@ -44,7 +44,7 @@ namespace WallHitCounter.UI
                 WallHitCounterUI.ApplyOffsetsToAll();
             }
         }
-        
+
         /// <summary>
         /// 小数点1桁でフォーマットした表示文字列を返すヘルパー
         /// </summary>
