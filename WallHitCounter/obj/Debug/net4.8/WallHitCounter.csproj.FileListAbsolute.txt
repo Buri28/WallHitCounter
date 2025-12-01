@@ -1,9 +1,0 @@
-C:\work\plugin\WallHitCounter\WallHitCounter\obj\Debug\net4.8\WallHitCounter.csproj.AssemblyReference.cache
-C:\work\plugin\WallHitCounter\WallHitCounter\obj\Debug\net4.8\WallHitCounter.GeneratedMSBuildEditorConfig.editorconfig
-C:\work\plugin\WallHitCounter\WallHitCounter\obj\Debug\net4.8\WallHitCounter.AssemblyInfoInputs.cache
-C:\work\plugin\WallHitCounter\WallHitCounter\obj\Debug\net4.8\WallHitCounter.AssemblyInfo.cs
-C:\work\plugin\WallHitCounter\WallHitCounter\obj\Debug\net4.8\WallHitCounter.csproj.CoreCompileInputs.cache
-C:\work\plugin\WallHitCounter\WallHitCounter\bin\Debug\net4.8\net4.8\WallHitCounter.dll
-C:\work\plugin\WallHitCounter\WallHitCounter\bin\Debug\net4.8\net4.8\WallHitCounter.pdb
-C:\work\plugin\WallHitCounter\WallHitCounter\obj\Debug\net4.8\WallHitCounter.dll
-C:\work\plugin\WallHitCounter\WallHitCounter\obj\Debug\net4.8\WallHitCounter.pdb
