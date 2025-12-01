@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#4CAF50" />
+      <stop offset="1" stop-color="#2E7D32" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="16" fill="url(#g)" />
+  <!-- Wall shape -->
+  <rect x="18" y="34" width="92" height="22" rx="3" fill="#F9A825" />
+  <rect x="18" y="60" width="92" height="10" rx="2" fill="#FFB74D" />
+  <!-- Head (circle) -->
+  <g transform="translate(64,86)">
+    <circle cx="-12" cy="-36" r="12" fill="#FFFFFF" opacity="0.95" />
+    <rect x="-2" y="-48" width="24" height="24" rx="4" fill="#FFFFFF" opacity="0.95" transform="rotate(-20 -2 -48)" />
+  </g>
+  <!-- Strike indicator -->
+  <path d="M88 46 L100 34" stroke="#D32F2F" stroke-width="6" stroke-linecap="round" />
+  <path d="M92 50 L104 38" stroke="#FFCDD2" stroke-width="3" stroke-linecap="round" />
+  <!-- Letters 'W' and 'B' small badge -->
+  <rect x="10" y="10" width="36" height="20" rx="4" fill="#FFFFFF" opacity="0.12" />
+  <text x="28" y="26" font-family="Segoe UI, Arial" font-size="12" fill="#FFFFFF" text-anchor="middle" font-weight="700">W&amp;B</text>
+</svg>

@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\work\\plugin\\WallHitCounter\\WallHitCounter\\WallHitCounter.csproj": {}
+  },
+  "projects": {
+    "C:\\work\\plugin\\WallHitCounter\\WallHitCounter\\WallHitCounter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\work\\plugin\\WallHitCounter\\WallHitCounter\\WallHitCounter.csproj",
+        "projectName": "WallHitCounter",
+        "projectPath": "C:\\work\\plugin\\WallHitCounter\\WallHitCounter\\WallHitCounter.csproj",
+        "packagesPath": "C:\\Users\\tat28\\.nuget\\packages\\",
+        "outputPath": "C:\\work\\plugin\\WallHitCounter\\WallHitCounter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tat28\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.8"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net4.8",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net4.8",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

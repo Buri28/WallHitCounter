@@ -1,0 +1,34 @@
+{
+  "$schema": "https://raw.githubusercontent.com/beat-saber-modding-group/BSIPA-MetadataFileSchema/master/schema.json",
+  "id": "WallHitCounter",
+  "name": "WallHitCounter",
+  "author": "Buri",
+  "version": "1.0.0",
+  "description": "Displays the number of times your headset hits walls during gameplay",
+  "gameVersion": "1.39.1",
+  "dependsOn": {
+    "BSIPA": "^4.3.6",
+    "BeatSaberMarkupLanguage": "^1.12.1",
+    "Counters+": "^2.3.0"
+  },
+  "loadAfter": [
+		"Counters+"
+	],
+  "features": {
+    "CountersPlus.CustomCounter": {
+      "Name": "Wall & Bomb Counter",
+      "CounterLocation": "WallHitCounter.WallHitCounterUI",
+      "MultiplayerReady": true,
+      "BSML": {
+        "Resource": "WallHitCounter.UI.SettingsUI.bsml",
+        "Host": "WallHitCounter.SettingController",
+        "Icon": "WallHitCounter.UI.icon.png"
+      },
+      "ConfigDefaults": {
+        "Enabled": true,
+        "Position": "BelowCombo",
+        "Distance": 1
+      }
+    }
+  }
+}
