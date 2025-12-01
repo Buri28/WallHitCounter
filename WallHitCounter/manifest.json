@@ -12,16 +12,16 @@
     "Counters+": "^2.3.0"
   },
   "loadAfter": [
-		"Counters+"
-	],
+    "Counters+"
+  ],
   "features": {
     "CountersPlus.CustomCounter": {
       "Name": "Wall & Bomb Counter",
-      "CounterLocation": "WallHitCounter.WallHitCounterUI",
+      "CounterLocation": "WallHitCounter.UI.WallHitCounterUI",
       "MultiplayerReady": true,
       "BSML": {
         "Resource": "WallHitCounter.UI.SettingsUI.bsml",
-        "Host": "WallHitCounter.SettingController",
+        "Host": "WallHitCounter.UI.SettingController",
         "Icon": "WallHitCounter.UI.icon.png"
       },
       "ConfigDefaults": {
