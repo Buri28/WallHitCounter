@@ -1,6 +1,6 @@
 # Build outputs
 bin/
-obj/
+#obj/
 /*.dll
 /*.pdb
 /*.user
@@ -21,4 +21,4 @@ build_versions.bat
 deploy_instances.json
 
 # ignore GitHub configuration/workflow folder
-/.github/
+.github/
