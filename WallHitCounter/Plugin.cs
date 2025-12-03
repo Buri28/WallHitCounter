@@ -1,10 +1,7 @@
-using System;
 using System.Runtime.CompilerServices;
 using IPA;
-using IPA.Config;
 using IPA.Config.Stores;
 using SiraUtil.Zenject;
-using Zenject;
 using WallHitCounter.Installers;
 
 [assembly: InternalsVisibleTo(GeneratedStore.AssemblyVisibilityTarget)]

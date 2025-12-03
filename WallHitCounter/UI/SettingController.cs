@@ -1,4 +1,3 @@
-using System;
 using BeatSaberMarkupLanguage.Attributes;
 
 namespace WallHitCounter.UI
