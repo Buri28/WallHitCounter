@@ -1,6 +1,5 @@
 using TMPro;
 using UnityEngine;
-using CountersPlus.Custom;
 using CountersPlus.Utils;
 using CountersPlus.Counters.Custom;
 using CountersPlus.Counters.Interfaces;
@@ -88,7 +87,7 @@ namespace WallHitCounter.UI
                                    PluginConfig.Instance.CounterYOffset);
             }
         }
-        
+
         /// <summary>
         /// ノートカットイベント。爆弾ノートのヒットを検出してカウントを増やす。
         /// </summary>

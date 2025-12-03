@@ -1,5 +1,4 @@
 using System;
-using UnityEngine;
 using Zenject;
 
 namespace WallHitCounter.Services
@@ -37,9 +36,9 @@ namespace WallHitCounter.Services
         {
             if (obstacleMonitor != null) return;
             if (container == null || playerHeadAndObstacleInteraction == null) return;
-            
+
             // モニター作成と初期化
-            obstacleMonitor = 
+            obstacleMonitor =
                 container.InstantiateComponentOnNewGameObject<ObstacleMonitor>("WallHitCounter_ObstacleMonitor");
             obstacleMonitor.Initialize(this, playerHeadAndObstacleInteraction);
         }
