@@ -1,7 +1,6 @@
 # WallHitCounter
 
 壁とボムの衝突回数を表示するCountersPlusのカスタムカウンターです。  
-0ミスのとき、本当にフルコンボを継続しているか不安に駆られてしまうことはありませんか？
 
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/e1a849f1-502b-4c41-8fa7-8abc228faf4e" />
 
