@@ -9,6 +9,7 @@
   ※このModを動作させるためにはCounters+が必要となります。
 
 - 設定画面  
+  設定画面では **「Wall & Bomb Counter」** という表記になっています。(AI生成由来です)  
   <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/bae57622-315f-49f9-a254-b71f17237240" />
 
   **Counter X Offset**：カウンターを表示位置を微調整するためのX座標のオフセット  
