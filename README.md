@@ -21,4 +21,4 @@
 - 謝辞  
 本MODはrakkyoさんの[YokoNotesTokaYurusenaiCounter](https://github.com/rakkyo150/YokoNotesTokaYurusenaiCounter)の簡易版ともいえるものです。  
 衝突判定などを参考にさせていただきました。  
-この場を借りて感謝いたします。  
+ありがとうございます。  
