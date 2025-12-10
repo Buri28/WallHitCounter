@@ -19,6 +19,6 @@
   **Counter Y Offset**：カウンターを表示位置を微調整するためのY座標のオフセット  
 
 - 謝辞  
-本MODはrakkyoさんの[YokoNotesTokaYurusenaiCounter](https://github.com/rakkyo150/YokoNotesTokaYurusenaiCounter)の簡易版ともいえるものです。  
+本MODは機能的にrakkyoさんの[YokoNotesTokaYurusenaiCounter](https://github.com/rakkyo150/YokoNotesTokaYurusenaiCounter)の簡易版ともいえるものです。  
 衝突判定などを参考にさせていただきました。  
 ありがとうございます。  
